@@ -1,0 +1,2 @@
+# leetcodeGO
+leetcode in go
