@@ -3,7 +3,7 @@ leetcode in go
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
-|[20.ValidParenthese](https://leetcode.com/problems/valid-parentheses)|[GO](./20.ValidParenthese/validParenthese.go)|Easy|
+|[20.ValidParenthese](https://leetcode.com/problems/valid-parentheses)|[GO](./20.ValidParentheses/validParentheses.go)|Easy|
 |[19.removeNthNodeFromEndOfList](https://leetcode.com/problems/remove-nth-node-from-end-of-list)|[GO](./19.removeNthNodeFromEndOfList/removeNthFromEnd.go)|Medium|
 |[18.4Sum](https://leetcode.com/problems/4sum)|[GO](./18.4Sum/4Sum.go)|Medium|
 |[17.letterConbinationOfPhoneNumber](https://leetcode.com/problems/letter-combinations-of-a-phone-number)|[GO](./17.letterConbinationOfPhoneNumber/letterCombinations.go)|Medium|
